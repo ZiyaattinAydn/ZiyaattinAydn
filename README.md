@@ -1,6 +1,6 @@
 # Hi, I'm Ziyaattin Aydın 👋
 
-Full-stack developer based in İzmir, Türkiye.
+Full-stack developer based in Manisa, Türkiye.
 
 I build modern web applications, management panels, mobile experiences, and developer tools with a focus on clean interfaces, maintainable code, and real-world business needs.
 
